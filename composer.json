@@ -21,8 +21,8 @@
     },
     "require": {
         "php": "^7.1",
-        "phpspec/phpspec": "^5.0",
-        "phpspec/prophecy": "^1.6"
+        "phpspec/phpspec": "^6.0",
+        "phpspec/prophecy": "^1.7"
     },
     "require-dev": {
         "behat/behat": "~3.0",
